@@ -27,4 +27,6 @@ This runs every 30 minutes
 
 
 
+[Backing up your iCloud Drive files using rsync · Jesse Squires](https://www.jessesquires.com/blog/2019/09/27/icloud-backup-using-rsync/)
+
 202403291506
