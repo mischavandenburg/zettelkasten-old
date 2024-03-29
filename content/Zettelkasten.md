@@ -16,6 +16,8 @@ I first came across this concept by reading the book [How to take Smart Notes](h
 
 [[rwxrob's approach to Zettelkasten]]
 
+[[Writing is thinking and understanding]]
+
 **developed by**:: [[Niklas Luhmann]]
 **implemented by**:: [[Revising my PKM]]
 **from**:: [[How to Take Smart Notes]]
