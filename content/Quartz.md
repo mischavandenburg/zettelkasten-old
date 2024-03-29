@@ -8,7 +8,7 @@ The personal blog is the output of those notes: the more refined processed form.
 
 ## Links:
 
-**resulted in**:: [[Starting Quartz blog]]
+**resulted in**:: [[Starting Quartz blog]], [[Thoughts on Quartz for website or blogging]]
 **related to**:: [[pkm]], [[PKM Tools]], [[Zettelkasten]], [[writing]], [[blogging]]
 
 
