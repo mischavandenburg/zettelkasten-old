@@ -1,7 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Mischa's Public Zettelkasten
 ---
 
-Hello world
+After some years of blogging on https://mischavandenburg.com, my tech blog, I decided to publish some parts of my personal Zettelkasten as well.
 
-pageBody.Component.RecentNotes({ title: "Recent writing" })
+
+[[Sleep]]
