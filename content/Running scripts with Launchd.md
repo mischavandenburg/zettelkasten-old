@@ -1,4 +1,3 @@
-
 created com.mischa.zksync.plist in /Users/mischa/Library/LaunchAgents
 
 ```xml
@@ -23,10 +22,9 @@ created com.mischa.zksync.plist in /Users/mischa/Library/LaunchAgents
 
 This runs every 30 minutes
 
-
 # Problems
 
-Had a lot of problems due to rsync permissions. Had to do something cra
+Had a lot of problems due to rsync permissions. Had to do something crazy to give rsync full disk access, which I would never have come up with myself. Found it here:
 
 [Mojave rsync full disk access failure - Apple Community](https://discussions.apple.com/thread/250165035?answerId=250419395022&sortBy=best#250419395022)
 
