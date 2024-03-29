@@ -23,9 +23,17 @@ created com.mischa.zksync.plist in /Users/mischa/Library/LaunchAgents
 
 This runs every 30 minutes
 
+
+# Problems
+
+Had a lot of problems due to rsync permissions. Had to do something cra
+
+[Mojave rsync full disk access failure - Apple Community](https://discussions.apple.com/thread/250165035?answerId=250419395022&sortBy=best#250419395022)
+
 ## Links:
 
 
+[Mojave rsync full disk access failure - Apple Community](https://discussions.apple.com/thread/250165035?answerId=250419395022&sortBy=best#250419395022)
 
 [Backing up your iCloud Drive files using rsync · Jesse Squires](https://www.jessesquires.com/blog/2019/09/27/icloud-backup-using-rsync/)
 
