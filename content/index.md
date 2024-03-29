@@ -1,8 +1,8 @@
 ---
-title: Mischa's Public Zettelkasten
+title: Home
 ---
 
-I've been keeping a Zettelkasten for about 3 years now, and I've accumulated nearly 2500 notes. And I enjoy reading other people's Zettelkasten too, such as rwxrob's. It shows me what they're currently obsessed with or working on, and I like to follow their journeys in that way.
+Welcome. I've been keeping a Zettelkasten for about 3 years now, and I've accumulated nearly 2500 notes. And I enjoy reading other people's Zettelkasten too, such as rwxrob's. It shows me what they're currently obsessed with or working on, and I like to follow their journeys in that way.
 
 Publishing my writing to the world started with my [tech blog](https://mischavandenburg.com). I wrote about my journey into DevOps and what I was learning along the way, and found it to be an enjoyable practice. Later I approached it more like a Zettelkasten too, including personal notes and writing about my non-technical hobbies and obsessions. But eventually I felt it was better to keep it more accessible and readable for people interested in reading my technical content and for recruiters and hiring managers to have a good browsing experience.
 
