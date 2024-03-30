@@ -4,9 +4,14 @@
 
 [[Making sleep the number one priority in life]]
 
-[[Matthew Walker uses an Oura ring]]
 
 [[Magnesium supplementation for sleep is not supported by evidence]]
+
+## Sleep Tracking
+
+[[Matthew Walker uses an Oura ring]]
+
+[[Received my Oura ring today]]
 
 Links:
 
