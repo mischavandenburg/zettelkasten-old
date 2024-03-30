@@ -2,6 +2,9 @@
 
 [[CKS]]
 
+
+[[Kubernetes Storage]]
+
 ## Links: 
 
 
