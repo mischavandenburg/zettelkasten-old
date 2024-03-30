@@ -5,6 +5,8 @@
 
 [[Ephemeral storage is not deleted when containers crash]]
 
+
+
 ## Links:
 
 [[kubernetes-storage-pvc-pv]]

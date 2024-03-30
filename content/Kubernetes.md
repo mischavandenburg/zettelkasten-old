@@ -5,6 +5,8 @@
 
 [[Kubernetes Storage]]
 
+[[Network Policies]]
+
 ## Links: 
 
 
